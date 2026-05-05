@@ -14,3 +14,4 @@
 * [Equip From Weapon Rack](https://forge.sp-tarkov.com/mod/1136/equip-from-weapon-rack)
 * [Ref - SPT Friendly Quests](https://forge.sp-tarkov.com/mod/1538/ref-spt-friendly-quests)
 * [WTT - CommonLib](https://forge.sp-tarkov.com/mod/2310/wtt-commonlib)
+* [Scorpion](https://forge.sp-tarkov.com/mod/1348/scorpion)

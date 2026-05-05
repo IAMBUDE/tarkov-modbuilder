@@ -1,0 +1,11 @@
+{
+  "PriceMultiplier": 1.25,
+  "TraderRefreshMin": 3600,
+  "TraderRefreshMax": 10800,
+  "AddTraderToFlea": true,
+  "RemoveLoyaltyRestriction": false,
+  "RandomizeBuyRestriction": false,
+  "RandomizeStockAvailable": false,
+  "OutOfStockChance": 25,
+  "EventQuestsAlwaysActive": false
+}
