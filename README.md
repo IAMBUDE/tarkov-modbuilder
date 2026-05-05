@@ -21,3 +21,4 @@
 * [WTT - Artem](https://forge.sp-tarkov.com/mod/1023/wtt-artem)
 * [Bot Callsigns - Reloaded](https://forge.sp-tarkov.com/mod/1873/bot-callsigns-reloaded#versions)
 * [Fontaine's FOV Fix](https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix)
+* [HollywoodFX](https://forge.sp-tarkov.com/mod/2003/hollywoodfx)
