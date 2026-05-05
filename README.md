@@ -16,3 +16,4 @@
 * [WTT - CommonLib](https://forge.sp-tarkov.com/mod/2310/wtt-commonlib)
 * [Scorpion](https://forge.sp-tarkov.com/mod/1348/scorpion)
 * [ABPS - Acid's Bot Placement System](https://forge.sp-tarkov.com/mod/2097/abps-acids-bot-placement-system)
+* [APBS - Acid's Progressive Bot System](https://forge.sp-tarkov.com/mod/1594/apbs-acids-progressive-bot-system)
