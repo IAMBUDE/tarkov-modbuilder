@@ -10,3 +10,4 @@
 * [Fika](https://github.com/project-fika/Fika-Plugin)
 * [Quick Move To Containers](https://forge.sp-tarkov.com/mod/1341/quick-move-to-containers)
 * [UI Fixes](https://forge.sp-tarkov.com/mod/1342/ui-fixes)
+* [Quest Tracker](https://forge.sp-tarkov.com/mod/1140/quest-tracker)
