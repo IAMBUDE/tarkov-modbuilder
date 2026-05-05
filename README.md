@@ -23,3 +23,4 @@
 * [Fontaine's FOV Fix](https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix)
 * [HollywoodFX](https://forge.sp-tarkov.com/mod/2003/hollywoodfx)
 * [HandsAreNotBusy](https://forge.sp-tarkov.com/mod/1298/handsarenotbusy)
+* [Server Value Modifier](https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm)
