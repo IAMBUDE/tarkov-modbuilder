@@ -20,3 +20,4 @@
 * [Dynamic Maps](https://forge.sp-tarkov.com/mod/1431/dynamic-maps)
 * [WTT - Artem](https://forge.sp-tarkov.com/mod/1023/wtt-artem)
 * [Bot Callsigns - Reloaded](https://forge.sp-tarkov.com/mod/1873/bot-callsigns-reloaded#versions)
+* [Fontaine's FOV Fix](https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix)
