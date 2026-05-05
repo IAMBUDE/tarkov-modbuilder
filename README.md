@@ -25,3 +25,4 @@
 * [HandsAreNotBusy](https://forge.sp-tarkov.com/mod/1298/handsarenotbusy)
 * [Server Value Modifier](https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm)
 * [Kaeno-TraderScrolling](https://forge.sp-tarkov.com/mod/1089/kaeno-traderscrolling)
+* [Phobos](https://github.com/SleepingPills/Phobos/tree/main)
