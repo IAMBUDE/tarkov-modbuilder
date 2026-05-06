@@ -26,3 +26,4 @@
 * [Server Value Modifier](https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm)
 * [Kaeno-TraderScrolling](https://forge.sp-tarkov.com/mod/1089/kaeno-traderscrolling)
 * [Phobos](https://github.com/SleepingPills/Phobos/tree/main)
+* [Brighter Interiors](https://forge.sp-tarkov.com/mod/2613/brighter-interiors)
