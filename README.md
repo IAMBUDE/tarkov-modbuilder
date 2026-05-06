@@ -20,10 +20,12 @@
 * [Dynamic Maps](https://forge.sp-tarkov.com/mod/1431/dynamic-maps)
 * [WTT - Artem](https://forge.sp-tarkov.com/mod/1023/wtt-artem)
 * [Bot Callsigns - Reloaded](https://forge.sp-tarkov.com/mod/1873/bot-callsigns-reloaded#versions)
-* [Fontaine's FOV Fix](https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix)
 * [HollywoodFX](https://forge.sp-tarkov.com/mod/2003/hollywoodfx)
 * [HandsAreNotBusy](https://forge.sp-tarkov.com/mod/1298/handsarenotbusy)
 * [Server Value Modifier](https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm)
 * [Kaeno-TraderScrolling](https://forge.sp-tarkov.com/mod/1089/kaeno-traderscrolling)
 * [Phobos](https://github.com/SleepingPills/Phobos/tree/main)
 * [Brighter Interiors](https://forge.sp-tarkov.com/mod/2613/brighter-interiors)
+
+## Removed (Possibly broken?)
+* [Fontaine's FOV Fix](https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix)
