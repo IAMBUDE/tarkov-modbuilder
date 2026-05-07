@@ -26,6 +26,7 @@
 * [Kaeno-TraderScrolling](https://forge.sp-tarkov.com/mod/1089/kaeno-traderscrolling)
 * [Phobos](https://github.com/SleepingPills/Phobos/tree/main)
 * [Brighter Interiors](https://forge.sp-tarkov.com/mod/2613/brighter-interiors)
+* [CloudSix - Volumetric Clouds](https://forge.sp-tarkov.com/mod/2567/cloudsix-volumetric-clouds#comments)
 
 ## Removed (Possibly broken?)
 * [Fontaine's FOV Fix](https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix)
