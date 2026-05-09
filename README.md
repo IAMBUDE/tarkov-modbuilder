@@ -28,6 +28,7 @@
 * [Brighter Interiors](https://forge.sp-tarkov.com/mod/2613/brighter-interiors)
 * [CloudSix - Volumetric Clouds](https://forge.sp-tarkov.com/mod/2567/cloudsix-volumetric-clouds#comments)
 * [Better Thermal & Night Vision](https://forge.sp-tarkov.com/mod/2531/better-thermal-night-vision)
+* [Picture in Picture Disabler](https://forge.sp-tarkov.com/mod/2667/picture-in-picture-disabler)
 
 ## Removed (Possibly broken?)
 * [Fontaine's FOV Fix](https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix)
