@@ -6,7 +6,6 @@
 * [BigBrain](https://forge.sp-tarkov.com/mod/902/bigbrain)
 * [Search Open Containers](https://forge.sp-tarkov.com/mod/934/search-open-containers)
 * [Task List Fixes](https://forge.sp-tarkov.com/mod/824/task-list-fixes)
-* [Looting Bots](https://forge.sp-tarkov.com/mod/812/looting-bots)
 * [Fika](https://github.com/project-fika/Fika-Plugin)
 * [Quick Move To Containers](https://forge.sp-tarkov.com/mod/1341/quick-move-to-containers)
 * [UI Fixes](https://forge.sp-tarkov.com/mod/1342/ui-fixes)
@@ -24,11 +23,15 @@
 * [HandsAreNotBusy](https://forge.sp-tarkov.com/mod/1298/handsarenotbusy)
 * [Server Value Modifier](https://forge.sp-tarkov.com/mod/236/server-value-modifier-svm)
 * [Kaeno-TraderScrolling](https://forge.sp-tarkov.com/mod/1089/kaeno-traderscrolling)
-* [Phobos](https://github.com/SleepingPills/Phobos/tree/main)
 * [Brighter Interiors](https://forge.sp-tarkov.com/mod/2613/brighter-interiors)
 * [CloudSix - Volumetric Clouds](https://forge.sp-tarkov.com/mod/2567/cloudsix-volumetric-clouds#comments)
 * [Better Thermal & Night Vision](https://forge.sp-tarkov.com/mod/2531/better-thermal-night-vision)
 * [Picture in Picture Disabler](https://forge.sp-tarkov.com/mod/2667/picture-in-picture-disabler)
+* [ORBIT](https://forge.sp-tarkov.com/mod/2706/orbit)
+
+## Removed
+* [Phobos](https://github.com/SleepingPills/Phobos/tree/main)
+* [Looting Bots](https://forge.sp-tarkov.com/mod/812/looting-bots)
 
 ## Removed (Possibly broken?)
 * [Fontaine's FOV Fix](https://forge.sp-tarkov.com/mod/701/fontaines-fov-fix)
